@@ -1,4 +1,4 @@
-# Quantizer-design(2)
+# Quantizer design(2)
 In the previous project, if we nonlinearize the 15-bit Mid-Rise quantifier S / H circuit, the simulation of the circuit in question is equal to two amplitude input sinusoidal signal 0.1V:
 ___________________________________________________________________________________________________________
 ![222222](https://user-images.githubusercontent.com/72104345/164681071-87648d1a-7acf-4ee7-b8a9-6dc7259a2735.JPG)
